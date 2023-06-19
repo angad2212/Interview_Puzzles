@@ -1,0 +1,4 @@
+Puzzle: Your friend has 3 boxes, one of them which contains a gold bar. He asks you to choose one box. You choose one and then out of the two boxes left with your friend, he throws away one of the boxes which were empty. Now should you replace the one you have or not, to get the gold bar?
+
+Answer: If you choose your own box, you have 1/3 chances no matter what you initially picked. But after your friend eliminates one of the boxes, you do not improve your chances of winning from 1/3 if you stick with your choice.
+If you switch boxes though, there is a 2/3 chance that you will win. 
